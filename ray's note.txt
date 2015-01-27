@@ -3,3 +3,8 @@ having learned basic knowledge of django,along with python stuff
 what I need now is how to use the template
 2015.01.25 
 
+if there are any chinese ,need code -- 
+---
+#coding:utf-8
+
+
