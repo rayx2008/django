@@ -1,6 +1,5 @@
 from scrapy.spider import Spider
 from scrapy.selector import Selector
-
 from dirbot.items import Website
 
 
